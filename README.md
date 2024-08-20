@@ -1,2 +1,6 @@
 # Mind-Project
 Hello, my name is Evandersson and this project came from an idea of world were people have the possibility of program your own mind by connecting and configurating it through frequency connections and so on... 
+With this done we can answer questions like 'How to create and make a artificial mind have the same behavior or reactions that a normal human brain haves', 'How we can create a machine that learns and acts independently'. 
+
+# Tools
+for this project I've been using a mix between freepascal and python for box's creation. for the human he just needs to force his mind to a determined frequency to connect it to the device hoping that his brain handles...
